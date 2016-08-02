@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/build/intermediates/res/merged/debug/drawable/pear.png",
+        "source": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/src/main/res/drawable/pear.png"
+    },
+    {
+        "merged": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/build/intermediates/res/merged/debug/drawable/lemon.png",
+        "source": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/src/main/res/drawable/lemon.png"
+    },
+    {
+        "merged": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/build/intermediates/res/merged/debug/drawable/cherry.png",
+        "source": "/home/shaya/Android_Projects/AndroidStudioProjects/slot/app/src/main/res/drawable/cherry.png"
+    }
+]
